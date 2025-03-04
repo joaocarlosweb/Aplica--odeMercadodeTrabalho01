@@ -1,0 +1,6 @@
+-importar as base de dados e tratar 
+-Enviar 1 arquivo para cada loja 
+-Salvar Backup em cada pasta
+- Calcular os indicadores
+-Enviar Onepaga
+-Envia Email para diretoria 
